@@ -249,29 +249,10 @@ The app uses a simple login flow (no authentication required). Click the "Login"
 8. Click "View Details" on any lead to view full information
 9. Verify responsiveness on mobile devices
 
-## 📝 Assignment Requirements Checklist
-
-- ✅ MongoDB (free tier) with proper DB connectivity via environment variables
-- ✅ Backend APIs to fetch leads with server-side search, filters, sorting, and pagination
-- ✅ Minimum APIs: GET /api/leads and GET /api/leads/:id
-- ✅ Seeded 500 dummy leads (meets 300-1,000 requirement)
-- ✅ Mobile-responsive frontend
-- ✅ Login screen (basic auth)
-- ✅ Leads table/list with search, filters, pagination
-- ✅ Lead details view
-- ✅ 4 analytics metrics (Total Leads, Converted, New, Contacted)
-- ✅ Deployed using free hosting providers
-- ✅ Public GitHub repository
-- ✅ README with setup steps, env variables, seeding method
-
-## 🤝 Contributing
-
-This is a take-home assignment project. Not open for contributions.
-
 ## 📧 Contact
 
-For questions regarding this assignment, please contact: [YOUR_EMAIL_HERE]
+For questions regarding this assignment, please contact: hemrajsoyal10@gmail.com
 
 ---
 
-**Built with ❤️ for the fresher hiring process**
+Built with dots ⚫️
