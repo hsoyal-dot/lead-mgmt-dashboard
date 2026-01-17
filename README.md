@@ -211,8 +211,8 @@ The app uses a simple login flow (no authentication required). Click the "Login"
 
 ## 🔗 Deployed Links
 
-- **Frontend**: [YOUR_FRONTEND_URL_HERE]
-- **Backend**: [YOUR_BACKEND_URL_HERE]
+- **Frontend**: https://lead-mgmt-dashboard.vercel.app/
+- **Backend**: https://lead-mgmt-dashboard.onrender.com
 - **GitHub Repository**: https://github.com/hsoyal-dot/lead-mgmt-dashboard
 
 ## 📊 Database Schema
