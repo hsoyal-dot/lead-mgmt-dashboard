@@ -213,7 +213,7 @@ The app uses a simple login flow (no authentication required). Click the "Login"
 
 - **Frontend**: [YOUR_FRONTEND_URL_HERE]
 - **Backend**: [YOUR_BACKEND_URL_HERE]
-- **GitHub Repository**: [YOUR_GITHUB_URL_HERE]
+- **GitHub Repository**: https://github.com/hsoyal-dot/lead-mgmt-dashboard
 
 ## 📊 Database Schema
 
